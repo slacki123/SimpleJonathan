@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882879283591",
+    "firebase_url": "https://lpsimplejonathan.firebaseio.com",
+    "project_id": "lpsimplejonathan",
+    "storage_bucket": "lpsimplejonathan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882879283591:android:5f92e1408a294d08",
+        "android_client_info": {
+          "package_name": "com.example.simplejonathan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882879283591-h0j69m1q9vij40unh94c2l1ltgd6k379.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplejonathan",
+            "certificate_hash": "e665d7f799f2479fcafc2f081ad74ca30d53dfd6"
+          }
+        },
+        {
+          "client_id": "882879283591-kjf1vn41c9ld5fcvthc2o96rg8vnv1fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9hbtPthcjF4Dd9UUqH6GnDbdYKFuUt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882879283591-kjf1vn41c9ld5fcvthc2o96rg8vnv1fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
